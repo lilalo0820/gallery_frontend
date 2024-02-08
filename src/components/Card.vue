@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import common from "@/common/common";
+import common from "@/common/lib";
 
 export default {
   name: "Card",
